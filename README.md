@@ -24,7 +24,7 @@ Seja bem-vinda ao repositório de dicas e ferramentas para desenvolvedores! Aqui
 
 ### Resposividade 
 - [Am I Responsive?](http://ami.responsivedesign.is) - 
-- [MobiReady] (https://ready.mobi/) - Ferramenta gratuita para testar o desempenho do site em dispositivos móveis.
+- [MobiReady](https://ready.mobi/) - Ferramenta gratuita para testar o desempenho do site em dispositivos móveis.
 
 ## CSS 
 - [ShapeDividers](https://shapedividers.com/) - A maneira mais fácil de adicionar divisores, de forma responsiva ou animados ao seu site.
