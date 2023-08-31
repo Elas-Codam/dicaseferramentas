@@ -13,15 +13,27 @@ Seja bem-vinda ao repositório de dicas e ferramentas para desenvolvedores! Aqui
 
 - [Figma](https://www.figma.com/) - Ferramenta de design de interface colaborativa.
 - [Adobe XD](https://www.adobe.com/products/xd.html) - Outra opção para design de interfaces.
+- [Photopea](https://www.photopea.com/) - Editor de fotos gratuito.
+- [Google Fonts](https://fonts.google.com/) - Fontes gratuitas.
+- [MockFlow](https://wireframepro.mockflow.com/) - Design de interfaces.
+- [Visily](https://www.visily.ai/) - Designe de interfaces.
+- [Coolors](https://coolors.co/) - Gerador de paletas de cores aleatorias.
+- [Palleton](https://paletton.com/) - Gerador de paleta de cor.
+- [Adobe Color](https://color.adobe.com/pt/create/color-wheel) - Gerador de paleta de cor.
+- [Galactic](https://galactic.ink/sphere/#) - Gerador de paleta de cor.
 
 ### Ícones e Imagens
-
 - [Font Awesome](https://fontawesome.com/) - Biblioteca de ícones vetoriais.
 - [Unsplash](https://unsplash.com/) - Banco de imagens gratuitas de alta qualidade.
 - [Pexels](https://www.pexels.com/pt-br) - Banco de imagens gratuitas de alta qualidade.
+- [Stock](https://www.shutterstock.com/) - Banco de imagens gratuitas de alta qualidade.
+- [Flickr](https://flickr.com/) - Banco de imagens gratuitas de alta qualidade.
 - [Storyset](https://storyset.com/) - Ilustrações personalizáveis
-- [ThisPersonDoesNotExist](https://this-person-does-not-exist.com/en) - Gerador de rostos aleatórios de pessoas que não existe. 
-
+- [ThisPersonDoesNotExist](https://this-person-does-not-exist.com/en) - Gerador de rostos aleatórios de pessoas que não existe.
+- [Emojipedia](https://emojipedia.org/) - Códigos de emojis.
+- [Icon Archive](https://www.iconarchive.com/) - Icones.
+- [Favicon](https://favicon.io/favicon-converter/) - Gerador de Icones.
+  
 ### Resposividade 
 - [Am I Responsive?](http://ami.responsivedesign.is) - 
 - [MobiReady](https://ready.mobi/) - Ferramenta gratuita para testar o desempenho do site em dispositivos móveis.
@@ -34,6 +46,11 @@ Seja bem-vinda ao repositório de dicas e ferramentas para desenvolvedores! Aqui
 - [AnimateStyle](https://animate.style/) - Biblioteca de animações prontas.
 - [Animista.net](https://animista.net/play) - Ferramneta de animações prontas. Basta ajustá-las.
 - [Hamburgers](https://jonsuh.com/hamburgers/) - Hambúrgueres animados.
+- [CSS Reference](https://cssreference.io/) - Referencias CSS, propriedades.
+
+### HTML
+- [HTML Reference](https://htmlreference.io/) - Referencias HTML, tags e semantica.
+
   
 ## Inspirações e Templates
 - [OneLovePage](https://onepagelove.com/)
