@@ -33,6 +33,9 @@ Seja bem-vinda ao repositório de dicas e ferramentas para desenvolvedores! Aqui
 - [Emojipedia](https://emojipedia.org/) - Códigos de emojis.
 - [Icon Archive](https://www.iconarchive.com/) - Icones.
 - [Favicon](https://favicon.io/favicon-converter/) - Gerador de Icones.
+- [Dev](https://dev.to/envoy_/150-badges-for-github-pnk) - Badges para GitHub.
+
+  
   
 ### Resposividade 
 - [Am I Responsive?](http://ami.responsivedesign.is) - 
@@ -55,8 +58,14 @@ Seja bem-vinda ao repositório de dicas e ferramentas para desenvolvedores! Aqui
 ## Inspirações e Templates
 - [OneLovePage](https://onepagelove.com/)
 - [BootStrapMade](https://bootstrapmade.com/)
+- [Dribbble](https://dribbble.com/shots) 
 
+## Fontes
+- [Google Fonts](https://fonts.google.com/) - Biblioteca com mais de 800 fontes livres para textos.
 
+## Implantação de página 
+- [Vercel](https://vercel.com/) - Gratuita
+  
 ## Recursos de Aprendizado
 
 - [Codecademy](https://www.codecademy.com/) - Plataforma interativa para aprender programação.
