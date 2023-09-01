@@ -36,7 +36,6 @@ Seja bem-vinda ao repositório de dicas e ferramentas para desenvolvedores! Aqui
 - [Dev](https://dev.to/envoy_/150-badges-for-github-pnk) - Badges para GitHub.
 
   
-  
 ### Resposividade 
 - [Am I Responsive?](http://ami.responsivedesign.is) - 
 - [MobiReady](https://ready.mobi/) - Ferramenta gratuita para testar o desempenho do site em dispositivos móveis.
@@ -69,7 +68,7 @@ Seja bem-vinda ao repositório de dicas e ferramentas para desenvolvedores! Aqui
 ## Implantação de página 
 - [Vercel](https://vercel.com/) - Gratuita
 
-  ## Organizador de Tarefas
+## Organizador de Tarefas
 - [Notion](https://www.notion.so/product)
 - [Trello](https://trello.com/home)
   
