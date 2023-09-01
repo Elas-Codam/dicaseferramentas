@@ -61,10 +61,17 @@ Seja bem-vinda ao repositório de dicas e ferramentas para desenvolvedores! Aqui
 - [Dribbble](https://dribbble.com/shots) 
 
 ## Fontes
-- [Google Fonts](https://fonts.google.com/) - Biblioteca com mais de 800 fontes livres para textos.
+- [Google Fonts](https://fonts.google.com/) - Biblioteca com mais de 800 fontes para textos.
+
+## Modelos de Elementos
+- [uiverse](https://uiverse.io/) - Elementos como buttons, cards... com código aberto
 
 ## Implantação de página 
 - [Vercel](https://vercel.com/) - Gratuita
+
+  ## Organizador de Tarefas
+- [Notion](https://www.notion.so/product)
+- [Trello](https://trello.com/home)
   
 ## Recursos de Aprendizado
 
